@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/medpick_assignment/static/css/main.5872da50.css",
+    "main.js": "/medpick_assignment/static/js/main.f67a536c.js",
+    "index.html": "/medpick_assignment/index.html",
+    "main.5872da50.css.map": "/medpick_assignment/static/css/main.5872da50.css.map",
+    "main.f67a536c.js.map": "/medpick_assignment/static/js/main.f67a536c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5872da50.css",
+    "static/js/main.f67a536c.js"
+  ]
+}
